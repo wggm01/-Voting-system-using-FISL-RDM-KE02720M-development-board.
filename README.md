@@ -5,10 +5,10 @@ Project Members:
 >Andrea Gonzalez, Adriana Gonzalez, Gabriel Marzullo,Oliver Rodriguez, Wvaldo Graell
 
 Team:
-![Team](team.jpeg)
+![Team](team.jpg)
 
 Final Product:
-![Final](project.jpeg)
+![Final](project.jpg)
 
 Logistical info:
 
