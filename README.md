@@ -1,4 +1,4 @@
-# -Voting-system-using-FISL-RDM-KE02720M-development-board.
+# Voting-system.
 Implementation of voting system as a final project of digital computer course.
 
 Logistical info:
