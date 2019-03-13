@@ -1,9 +1,9 @@
 # Voting-system.
-Implementation of voting system as a final project of digital computer course.
+Implementation of voting system using the development board FRDM-KE027 as a final project of digital computer course.
 
 Project Members:
 >Gabriel Marzullo,Oliver Rodriguez, Andrea Gonzalez, Leonel Aguilar, Wvaldo Graell, Sobenis Stephanie, Adriana Gonzalez.
-.
+
 
 Team:
 
