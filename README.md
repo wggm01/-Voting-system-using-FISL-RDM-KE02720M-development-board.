@@ -2,12 +2,15 @@
 Implementation of voting system as a final project of digital computer course.
 
 Project Members:
->Andrea Gonzalez, Adriana Gonzalez, Gabriel Marzullo,Oliver Rodriguez, Wvaldo Graell
+>Gabriel Marzullo,Oliver Rodriguez, Andrea Gonzalez, Leonel Aguilar, Wvaldo Graell, Sobenis Stephanie, Adriana Gonzalez.
+.
 
 Team:
-![Team](team.jpg)
 
-Final Product:
+> ![Team](team.jpg)
+
+> Final Product
+
 ![Final](project.jpg)
 
 Logistical info:
