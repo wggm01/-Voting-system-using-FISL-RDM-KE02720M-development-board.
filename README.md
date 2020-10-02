@@ -5,9 +5,7 @@ Project Members:
 >Gabriel Marzullo,Oliver Rodriguez, Andrea Gonzalez, Leonel Aguilar, Wvaldo Graell, Sobenis Stephanie, Adriana Gonzalez.
 
 
-Team:
 
-> ![Team](team.jpg)
 
 > Final Product
 
